@@ -4,6 +4,6 @@ Al presionar el  botón,
 se debe mostrar un mensaje como el siguiente "Esto funciona de maravilla"*/
 function mostrar()
 {
-	alert("Que Onda Gente");
+	alert("Esto Funciona de maravilla");
 }
 
