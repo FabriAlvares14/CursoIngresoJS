@@ -4,6 +4,12 @@ Debemos lograr tomar un nombre con 'prompt'
 y luego mostrarlo por 'alert' al presionar el botón  'mostrar'*/
 function mostrar()
 {
-	alert("Boca el mas Grande ");
+	/*estoy declarando una variable*/
+
+	let nombre;
+
+	nombre = prompt("Ingrese su nombre")
+
+	alert(nombre);
 }
 
